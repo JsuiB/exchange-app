@@ -1,8 +1,8 @@
 import './App.css';
 import {useState} from 'react';
 
-const URL = 'http://api.exchangeratesapi.io/v1/latest?access_key='
-const API_KEY = 'fb79f871d5455254d57271af7fca0f1a'
+const URL = 'http://api.exchangeratesapi.io/v1/latest?access_key=';
+const API_KEY = 'fb79f871d5455254d57271af7fca0f1a';
 
 
 function App() {
